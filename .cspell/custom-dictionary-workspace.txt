@@ -1,0 +1,4 @@
+linecap
+linejoin
+Mindly
+svgrepo
